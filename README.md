@@ -35,6 +35,8 @@ Quando o estudante se vê no lugar — entendendo papéis, trade-offs e linguage
 ![XP FIAP-214](https://github.com/user-attachments/assets/28ce8e2e-b92d-48cc-91fd-030640d6f472)
 ![XP FIAP-57](https://github.com/user-attachments/assets/e385d26f-731e-4462-af7f-1903ba0e32dc)
 ![XP FIAP-283](https://github.com/user-attachments/assets/2c8a9480-bf5f-4db2-a4a0-2714d1f80eb9)
+![XP FIAP-171](https://github.com/user-attachments/assets/3edd07f9-56c1-4360-8313-0e5f360bc7fc)
+![XP FIAP-242](https://github.com/user-attachments/assets/647f79ae-0bd6-4c9c-87a2-0ec550648c70)
 
 
 
